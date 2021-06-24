@@ -8,3 +8,5 @@ We created an Internet of Things based prototype to connect medical sensors to a
 - scikit-learn
 - flask
 - pandas-highcharts
+
+<img src="https://github.com/miyu0201/Remote-Elderly-Monitoring-IoT/blob/main//game screen.PNG" width="500">
